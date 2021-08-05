@@ -24,3 +24,32 @@ A brushless motor is a synchronous motor that uses an electronic commutator inst
 
 ![image](https://user-images.githubusercontent.com/85449693/128339530-857d30dd-7cc8-4f3e-b3bc-b12019be87d8.png)
 
+
+Brushless DC motor control 
+
+•	Three Phase Bridge 
+Since brushless motors do not have a mechanical commutator that allows them to change the direct voltage to an alternating voltage, we must use three phase bridge that allows us to do this, which is a power electronic circuit called an inverter and the circuit is connected to the microcontroller that sends PWM signal to the bridge. In the commercial markets, there are many ready-made driver modules that enable us to control the speed and direction of the brushless DC motors. 
+
+![image](https://user-images.githubusercontent.com/85449693/128339879-50e0abaf-79c2-4b2e-aca7-9dda32007849.png)
+
+
+•	Electronic Speed Control (ESC) 
+
+
+![image](https://user-images.githubusercontent.com/85449693/128339959-e1a6651c-d4b5-4a3a-b814-99d00fcb2df3.png)
+
+![image](https://user-images.githubusercontent.com/85449693/128339989-13330b25-2942-4b88-a02a-d20b6bbaed85.png)
+
+
+•	DC 5V-12V Brushless driver board control 
+
+
+![image](https://user-images.githubusercontent.com/85449693/128340074-834b408e-ee08-4c07-9d46-d4a201db027b.png)
+
+
+•	QS-909 BLDC Motor Driver 
+
+![image](https://user-images.githubusercontent.com/85449693/128340121-1a0badc2-f1f2-4974-95bc-f3f33231b9d8.png)
+
+
+
