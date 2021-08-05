@@ -7,6 +7,8 @@ Control the speed and direction of the brushless DC motor by using QS-909 Motor 
 
 
 Problem definition 
+
+
 In this project, I will deal with a new type of motor, which is brushless motors. We will use this type of motor due to its high torque and high rotational speed compared to brushed motors. In this project I will use QS-909 motor drive to control of the speed and direction of the brushless motor. The motor will be installed on the axis of the tire, which in turn will be at the base of the robot to move it and I will program the Arduino to do this task. 
 
 Required Task 
